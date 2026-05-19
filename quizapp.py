@@ -4,7 +4,7 @@ Created on Fri Jul 11 18:22:05 2025
 
 @author: Aniket Chakraborty
 """
-def run_quiz
+def run_quiz (questions):
     score = 0
     for q in questions:
         print("\n" + q["question"])
